@@ -1,0 +1,108 @@
+{
+  "name": "Saranya Saravanan",
+  "designation": "Graduate Student",
+  "major": "Computer Science",
+  "email": "saravan2@buffalo.edu",
+  "address": "1400 Millersport Hwy Williamsville Buffalo NY",
+  "phone": "+1(716)-930-5573 ",
+  "image": "https://photos.google.com/search/_tra_/photo/AF1QipMUyKqfI59_A0OxgrluED3LT8xLkBAwT7J3ti_W",
+  "website": "SaranyaSaravanan",
+  "linkedIn": "Saranya-saravanan",
+  "linkedInURL": "https://www.linkedin.com/in/saranya-saravanan-169054166/",
+  "github": "saranya0912",
+  "githubURL": "https://github.com/saranya0912",
+  "projects": [
+    {
+      "name": "Contact Manager",
+      "technology": "MongoDB, Express, React, Nodejs,Heroku",
+      "year": "2020",
+      "appLink": "https://whispering-peak-84100.herokuapp.com/",
+      "url": "https://github.com/saranya0912/contact_manager",
+      "detail": "This is a MERN stack web application where users can manage their contacts. Each user can have their own login and can perform operations such as adding, editing or deleting contact details. It uses JWT strategy for privacy, encryption with salt for password protection. The backend API developed using Express, Nodesjs with Javascript input validation and Mongodb in Atlas cloud as data store. Responsive frontend designed using React, Redux and css for styles and customization. Deployed the application in Heroku server."
+    },
+    {
+      "name": "GitHub Finder Application",
+      "technology": "ReactJS, GitHub API, Netlify",
+      "year": "2020",
+      "appLink":"https://5ee1645ba7394b0197ba9c8c--pedantic-beaver-06d56c.netlify.app/",
+      "url": "https://github.com/saranya0912/github-finder-React-Application-",
+      "detail": "Web application that performs search and fetch the GitHub profile of users and display only the specified fields from the entire profile details and their repositories. Third-party GitHub API is used for accessing the data. Used React Hooks and Context API for frontend and deployed the application to the Netlify server. "
+    },
+    {
+      "name": "English Alphabets Game",
+      "technology": "ReactJS, JSON",
+      "year": "2018",
+      "appLink": "https://english-alphabets-game.herokuapp.com/",
+      "url": "https://github.com/Lavanya3095/English-Alphabets-game",
+      "detail": "This game developed in ReactJS for kids to learn English alphabets and the words for corresponding alphabets. Game also has audio for easy learning. The audio and the visual are synchronized using functions to get more gaming experience with learning. Deployed the game in Heroku server."
+    },
+    {
+      "name": "Big data processing and Predictive Analysis",
+      "technology": "Hadoop,PySpark",
+      "year": "2020",
+      "url": "",
+      "detail": "Implementing text processing and supervised machine learning algorithm on a  large dataset using MapReduce in Hadoop. Using Spark Libraries to implement an end to end Predictive Analytics Pipeline. Created a machine learning model for predicting the genre of the movie given the movie id, multi label classification. Using  (TF-IDF)  based and custom feature engineering  technique to improve the performance of the model."
+    },
+    {
+      "name": "End to end Information Retrieval model",
+      "technology": "ReactJS, Python, Google Charts, Solr",
+      "year": "2019",
+      "url": "https://github.com/saranya0912/End-to-End-Information-Retrieval-Model",
+      "detail": "The IR solution for data ingestion of twitter data, performs click based search for retrieving tweets and also provides analytic visualizations. Analytics implemented using Python and the hidden insights of the retrieved data is implemented using the Google charts library in React framework."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skilledAt": "Java, C#, C, C++, Python, ASP.NET, R"
+    },
+    {
+      "category": "Scripting Languages",
+      "skilledAt": "PHP, JSP, JavaScript, JSON, XML"
+    },
+    {
+      "category": "Web Technologies",
+      "skilledAt": "HTML, CSS"
+    },
+    {
+      "category": "Database & IDE",
+      "skilledAt": "MySQL, MongoDB, SQLite, NetBeans, Rational Rose, UML, AndroidStudio"
+    },
+    {
+      "category": "Framework & Library",
+      "skilledAt": "Apache Spark, Hadoop, ReactJS, NodeJS"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "place": "Buffalo, NY, USA",
+      "university": "State University of New York at Buffalo",
+      "period": "2019 Current"
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science & Engineering",
+      "place": "Chennai, Tamil Nadu, India",
+      "university": "Anna University",
+      "period": "2015 - 2019"
+    }
+  ],
+  "certificate": [
+    {
+      "course": "React JS build real world Application",
+      "certificateURL": "Udemy",
+      "date": "Present"
+    },
+    {
+      "course": "Building fullstack ReactJS application with NodeJS, Express and MongoDB",
+      "certificateURL": "https://www.udemy.com/certificate/UC-70bb6379-c9f4-4845-ae49-d720cf75720b/",
+      "date": "July 2020"
+    }   
+  ],
+  "extracurricular": [
+    "I am a state level tennis player ranked within 100 in All India Women's Tennis.",
+    "Represented University Women's Tennis in All India University level Tournaments and positioned among top #3 for two consecutive years.",
+    "Academic Excellence Award for the year 2013, 2014, and 2016 from the University for placing among top #3 in academics.",
+    "Academic excellence award for 10th grade an 12th grade at TAFE Private Limited."
+  ]
+}
